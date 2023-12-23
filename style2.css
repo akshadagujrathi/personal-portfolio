@@ -136,10 +136,10 @@
       width:20%;
     }
   }
-  .menu-wrapper li:nth-child(odd) a,
+/*   .menu-wrapper li:nth-child(odd) a,
   body.fp-viewing-fifthSection-1 .menu li:nth-child(5) a {
     background: #962d3e;
-  }
+  } */
   
 /*   .menu-wrapper li:nth-child(even) a {
     background: #aa3346;
