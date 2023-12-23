@@ -973,4 +973,7 @@ div#fp-nav {
     border-radius: 20px;
     padding: 10px;
 }
+    .menu-wrapper {
+    width: 70%;
+}
 }
