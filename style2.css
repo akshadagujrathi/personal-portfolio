@@ -952,3 +952,13 @@ div#fp-nav {
   margin: 5px;
   cursor: pointer;
 }
+@media screen and (max-width:500px){
+    a.all:hover .overlay {
+    width: 80%;
+    height: 80%;
+    bottom: 15px;
+    left: 15px;
+    border-radius: 20px;
+    padding: 10px;
+}
+}
