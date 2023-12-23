@@ -834,7 +834,7 @@ width:100%;
 }
 section#banner-section {
   background-position: top;
-  opacity:90%
+/*   opacity:90% */
 }
 #banner-section a.btn.btn-warning {
   padding: 10px !important;
