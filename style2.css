@@ -254,9 +254,7 @@
       p {
     font-size: 15px;
 }
-      .section-4 {
-    padding: 109px 0px 100px !important;
-}
+   
     .menu-wrapper ul {
       flex-direction: column;
     }
@@ -835,6 +833,9 @@ width:100%;
 }
 
 @media screen and (max-width:767px) {
+       .section-4 {
+    padding: 109px 0px 100px !important;
+}
   .main-heading {
     font-size: 33px;
     
