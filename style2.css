@@ -254,7 +254,9 @@
       p {
     font-size: 15px;
 }
-   
+   .about-services {
+    margin: 10px 0;
+}
     .menu-wrapper ul {
       flex-direction: column;
     }
