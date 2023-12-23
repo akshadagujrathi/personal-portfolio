@@ -124,9 +124,10 @@
   .menu-wrapper li a {
     text-decoration:none;
     display: block;
-    padding: 30px;
+/*     padding: 30px; */
+      color:#fff;
     font-size: 20px;
-    text-align: center;
+/*     text-align: center; */
     transition: background 0.3s;
   }
 
@@ -140,13 +141,13 @@
     background: #962d3e;
   }
   
-  .menu-wrapper li:nth-child(even) a {
+/*   .menu-wrapper li:nth-child(even) a {
     background: #aa3346;
   }
   
   .menu-wrapper li:nth-child(odd) a:hover {
     background: #9e2f41;
-  }
+  } */
   
   .menu-wrapper li:nth-child(even) a:hover {
     background: #c53c52;
