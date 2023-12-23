@@ -244,6 +244,9 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   
   @media screen and (max-width: 767px) {
+      p {
+    font-size: 15px;
+}
       .section-4 {
     padding: 109px 0px 100px;
 }
