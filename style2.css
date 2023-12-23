@@ -45,7 +45,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: rgba(0, 47, 77, 0.3);
+    background: #ffc107;
   }
   
   .header-top .logo {
