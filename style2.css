@@ -693,10 +693,10 @@ section{
   .title {
     font-size: 36px;
   }
-  .gallery img {
+/*   .gallery img {
     margin: 8px 8px;
     width: 175px;
-  }
+  } */
   .closeBtn {
     padding: 6px 25px;
   }
@@ -873,8 +873,8 @@ div#fp-nav {
 }
 .gallery img {
   margin: 8px 6px;
-  width: 150px;
-  height: 150px;
+  width: 142px;
+    height: 142px;
   object-fit: cover;
 }
 
