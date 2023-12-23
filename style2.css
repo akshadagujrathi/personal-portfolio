@@ -252,7 +252,7 @@
     font-size: 15px;
 }
       .section-4 {
-    padding: 109px 0px 100px;
+    padding: 109px 0px 100px !important;
 }
     .menu-wrapper ul {
       flex-direction: column;
