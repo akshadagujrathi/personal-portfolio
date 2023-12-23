@@ -841,9 +841,9 @@ width:100%;
 }
 
 @media screen and (max-width:767px) {
-    div#fullpage {
+/*     div#fullpage {
     height: unset !important;
-}
+} */
 #banner-section {
     height: 100vh;
 }
